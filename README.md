@@ -1,5 +1,5 @@
 # Unbeatable Tic Tac Toe
-======
+------
 
 This is an implementation of Tic Tac Toe in Ruby.
 
